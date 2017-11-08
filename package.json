@@ -1,0 +1,24 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "free code camp back-end file metadata mirco service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravenstudios/file-metadata.git"
+  },
+  "author": "Ravenstudios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravenstudios/file-metadata/issues"
+  },
+  "homepage": "https://github.com/ravenstudios/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "multer": "^1.3.0"
+  }
+}

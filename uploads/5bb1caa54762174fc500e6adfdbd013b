@@ -1,0 +1,510 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f28\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}MSTT31c2f0;}
+{\f29\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}MSTT31c379;}{\f30\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}MSTT31c335;}{\f120\froman\fcharset238\fprq2 Times New Roman CE;}{\f121\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f123\froman\fcharset161\fprq2 Times New Roman Greek;}{\f124\froman\fcharset162\fprq2 Times New Roman Tur;}{\f125\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f126\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f127\froman\fcharset186\fprq2 Times New Roman Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red43\green29\blue31;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\s1\qc \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 
+\fs48\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 1;}{\s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext0 heading 2;}{\s3\qc \li0\ri0\keepn\widctlpar\faauto\outlinelevel2\rin0\lin0\itap0 \fs36\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 3;}{\*\cs10 \additive Default Paragraph Font;}{\*\cs15 \additive 
+\ul\cf2 \sbasedon10 Hyperlink;}{\*\cs16 \additive \b \sbasedon10 Strong;}{\s17\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext17 Normal (Web);}}{\info{\title The Accursed Tower Conversion Guide}{\author Beverly West}{\operator Beverly West}{\creatim\yr2001\mo5\dy28\hr19\min39}{\revtim\yr2001\mo5\dy30\min23}{\version4}{\edmins8}{\nofpages14}{\nofwords4205}
+{\nofchars23973}{\nofcharsws0}{\vern8247}}\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1800\dgvorigin1440\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule \fet0\sectd \linex0\endnhere\sectlinegrid360\sectdefaultcl {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \s1\ql \fi720\li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 
+\fs48\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24 
+\par }\pard \s1\qc \fi720\li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 {The Accursed Tower Conversion Guide
+\par }\pard\plain \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs20 Converted By: Boone Pollard
+\par For comments e-mail me at }{\field{\*\fldinst {\fs20  HYPERLINK "mailto:BoonP00@tokyo-3.com" }{\fs20 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001400000042006f006f006e00500030003000400074006f006b0079006f002d0033002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b360000006d00610069006c0074006f003a0042006f006f006e00500030003000400074006f006b007900
+6f002d0033002e0063006f006d0000000000004000}}}{\fldrslt {\cs15\fs20\ul\cf2 BoonP00@tokyo-3.com}}}{\fs20 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\ul \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab 
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\ul 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\tab Hello, this is my first conversion so e-mail me at }{\field{\*\fldinst { HYPERLINK "mailto:BooneP00@tokyo-3.com" }{{\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001500000042006f006f006e006500500030003000400074006f006b0079006f002d0033002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b380000006d00610069006c0074006f003a0042006f006f006e006500500030003000400074006f00
+6b0079006f002d0033002e0063006f006d000000000014141400141414}}}{\fldrslt {\cs15\ul\cf2 BooneP00@tokyo-3.com}}}{ to tell me what you think  and to give me any suggestions.. I am a huge fan of R. A. Salvatore\rquote s Drizzt Do\rquote 
+Urden books so I was very excited to download The Accursed Tower and try it out. Much to my dismay it was 2nd edition AD&D and my campaign was 3}{\super rd}{ Edition D&D so I took it upon myself to convert it to 3}{\super rd}{
+ edition. I also included Drizzt Do\rquote Urden\rquote s stats as can be found at the Wizards of the Coast Website, }{\field{\*\fldinst { HYPERLINK "http://www.wizards.com/forgottenrealms/FR_3E_Drizzt.asp" }{{\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000003800000068007400740070003a002f002f007700770077002e00770069007a0061007200640073002e0063006f006d002f0066006f00720067006f007400740065006e007200650061006c006d0073002f00460052005f00330045005f004400720069007a00
+7a0074002e006100730070000000e0c9ea79f9bace118c8200aa004ba90b7000000068007400740070003a002f002f007700770077002e00770069007a0061007200640073002e0063006f006d002f0066006f00720067006f007400740065006e007200650061006c006d0073002f00460052005f00330045005f00440072
+0069007a007a0074002e00610073007000000000110000030407}}}{\fldrslt {\cs15\ul\cf2 http://www.wizards.com/forgottenrealms/FR_3E_Drizzt.asp}}}{
+,  they can be found at the end of this supplement.  The only thing I had to convert was the NPCs and the Monsters. So here they are!
+\par }{\cf6 \tab  }{\b\cf6 NOTE}{\cf6  you will still need The Accursed Tower Module. You can download it for $3.49 at }{\field{\*\fldinst { HYPERLINK "http://store.wizards.com/product.asp?ProductID=4694" }{{\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000003400000068007400740070003a002f002f00730074006f00720065002e00770069007a0061007200640073002e0063006f006d002f00700072006f0064007500630074002e006100730070003f00500072006f006400750063007400490044003d0034003600
+390034000000e0c9ea79f9bace118c8200aa004ba90b6800000068007400740070003a002f002f00730074006f00720065002e00770069007a0061007200640073002e0063006f006d002f00700072006f0064007500630074002e006100730070003f00500072006f006400750063007400490044003d0034003600390034
+0000000001fe005a8d84004d32f1}}}{\fldrslt {\cs15\ul\cf2 http://store.wizards.com/product.asp?ProductID=4694}}}{ }{\cf6 
+It is not my intention to rip off Wizards of the Coast so you will still need to buy their module to use any of this, unless of course you want to put them in your own adventure. Heh heh. (said nervously)}{
+\par \tab 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f28 
+\par }{\b Rafferty Tannerson}{, human F2: AC 12 (leather); MV 30;
+\par hp 14; ATK +1;  Dmg 1d6 (club); SZ M (5\'99 9l\'e8s
+\par tall); ML elite (14); Int average (9); AL NG; XP 35.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {Personality: Gruff, abrupt.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f28\fs16 
+\par }{\b Dell Tannerson}{, hm F0; AC 10; MV 30; hp 5; SZ M (5\rquote 
+\par 11\'94 tall); ML steady (12); Int average (8); AL NG; XP 15.
+\par Personality: Open, trusting, outgoing (to the point of
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {being annoying).}{\b 
+\par }{
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b Draft Horses}{ AC 13; move 40; ATK + 3 dmg 1d3 HD 3
+\par SZ L; ML unsteady (6); Int animal (1); AL N; XP 65}{\f28\fs16 .}{
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {Goblins (5): AC 14; MV 20; HD 1-1; hp 5 each;
+\par  ATK+0; #AT 1; Dmg 1d6 (short swords); SZ S  ML average (10); Int low (5); AL LE; XP 15.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b Goblin leader}{: AC 5 (chain mail); MV 6; HD 1; hp 8; ATK+2; #AT 1; Dmg 1d6 (short sword); SZ S (4\rquote ); ML average (10); Int low (7); AL LE; XP 35.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }{\b Goblin Archer}{ AC 15(chain mail) move 20; HD 1; HP 5; ATK +0;  DMG 1d6 flight arrows or 1d4 dagger }{\cf17 SZ S (4\'99); ML average (10); Int low (6); AL LE; XP 35.}{
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf17 Intoxicated Ogre}{\cf17 : AC 15 (12 due }{\cf1 to }{\cf17 intoxication); MV 20; HD
+\par 4+1; hp 18; ATK+3 (+1 due to intoxication); #AT
+\par 1; Dmg 1d10+2 (fists); 
+\par SZ L (9\rquote ); ML fearless (20) due tointoxication; Int low (7); AL CE; XP 270.}{\fs16\cf17 
+\par }{\f28\fs16\cf17 
+\par }{\b\cf17 Wounded Yeti}{\cf17  (1): AC 14; MV 40; HD 4+4; hp 30 (15
+\par wounded); ATK+5; #AT 2; Dmg 1d6/1d6
+\par (claw/claw); SA squeeze; SZ L (8\rquote  tall); ML unsteady
+\par (7); Int average (9); AL N; XP 270.
+\par Note: On a roll of a 20 the victim is pulled into a hug for
+\par 2d8 points of damage; any opponent surprised by the yeti must
+\par attempt a saving throw vs. paralyzation or be paralyzed for three
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\cf17 rounds, having looked into the icy blue depths of the yeti\rquote s eyes}{\f28\fs16\cf17 .}{
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f28\fs16\cf17 
+\par }{\cf17 Orcs (4): AC 14; MV 30; HD 1; hp 6 each;
+\par ATK+1; #AT 1; Dmg 1d6 (short sword); SW -1
+\par to attacks and morale }{\cf1 in }{\cf17 sunlight; SZ M (6\rquote  tall); ML
+\par steady (11); Int average (8); AL LE; XP 15.}{\f28\fs16\cf17 
+\par }{\b\f30\fs16\cf17 
+\par }{\b\cf17 Gnoll}{\cf17  (1): AC 15 (chain mail); MV 30; HD 2; hp
+\par 13; ATK+1; Dmg 1d8 (long sword); SZ L (71/2\rquote 
+\par tall); ML steady (11); Int low (5); AL LE; XP 35.
+\par 
+\par }{\b Brown bear: }{AC 14; MV 20; HD 5+5; hp 32; ATK+ 5; #AT 3; 1d6/1d6/1d8 (claw/claw/bite); SA hug; SZ L
+\par (9\rquote  tall); ML average (9); Int semi- (3); AL N; XP 420.
+\par Notes: On a roll of 18 or better the hear hugs its victim for 2d6
+\par points of damage. The bear also fights until it\rquote s reduced to -10 hp and dies}{\f28\fs16 .
+\par }{\b 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b Wild horses (18): }{AC 13; MV 60; HD 2; hp 13
+\par each; ATK+1; #AT 1; Dmg 1d3 (bite); SZ L; ML
+\par unsteady (5); Int animal (1); AL N; XP 35.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f28\fs16 
+\par }{\b Insane Ogre}{: AC 15; MV 30, HD 4+1; hp 24, ATK+3;
+\par #AT 1, Dmg 1d10+2 (fist); SZ L (9\rquote  tall), ML fearless
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {from madness (20), Int low (5), AL CE; XP 270.
+\par 
+\par I didn\rquote t include the goblins here because I already included a different groups stats
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f28\fs16 
+\par }{\b Bugbear: }{AC 15 (chain mail); MV 30; HD 3+1; hp
+\par 16; ATK +3; #AT 1; Dmg 1d8+2 (axe); SA +2
+\par damage due to strength; SZ L (7\'99 tall); ML steady
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {(12); Int average (8); AL CE; XP 120.
+\par   
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {
+\par }{\b Frost lizards }{(2).  AC 14; MV 30  glide on snow or ice 40; HD 2; hp 13
+\par each; ATK+ 1 AT 2; Dmg 1d4 X 2 (claw X 2);
+\par SA Glide; Spit ice ball (10\'99 range, one every other
+\par round for 1d8 points of damage; attempt a saving
+\par throw vs. breath weapon for half damage); SD invisi-
+\par ble on snow when not moving; SZ S (3\'99) ML steady
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {(12); Int semi- (3); AL N; XP 65 each.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b Giant owl: }{AC 14; MV 10, Fl 18 (E), HD 4; hp 24;
+\par ATK +3 ; #AT 3; Dmg 2d4/2d4/1d4+1
+\par (claw/claw/bite), SA -6 penalty to surprise; SZ L, ML
+\par steady (11), Int semi- (2); AL N; XP 270.
+\par a total of 9 gp on them}{\f28\fs16 .
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b Wolves (2): }{AC 13; MV 50; HD 3; hp 15 each;
+\par ATK +2; #AT 1; Dmg 1d4+1 (bite); SZ S
+\par (3\'99-4\'99); ML average (10); Int low (5); AL N; XP 65.
+\par 
+\par }{\b Giant lynx (2): }{AC 14; MV 30; HD 12+2; hp 14 each;
+\par ATK +1; #AT 3; Dmg 1d2/1d2/1d2 (claw/
+\par claw/bite); SA rake,  SD hide in shadows, de-
+\par tect traps; SZ M (4\'bd\'99 tall); ML average (11); Int very
+\par (12); AL N, XP 175.
+\par Notes: If a lynx strikes with both of its front paws it receives
+\par a rake from its rear claws, doing 1d3/1d3 points of damage; .XP 420.
+\par A lynx has a 90% chance of hiding in shadows and can de-
+\par tect traps at 75%.
+\par }{\b 
+\par Hoar foxes (2): }{AC 14; MV 40; HD 2; hp 10, 12;
+\par ATK +1; #AT 1; Dmg 1d6 (bite); SA breath
+\par weapon; SD immune to cold-based attacks; SW dou-
+\par ble damage from fire; SZ S (3\'99 long); ML unsteady
+\par (5); Int semi- (2); AL N; XP 120.
+\par Notes: The hoar fox has a breath weapon, a cone of cold
+\par air, causing 2d6 points of damage with a range of 30\'99 that is
+\par only wide enough to catch one victim; attempt a saving
+\par throw vs. breath weapon for half damage.
+\par 
+\par I don\rquote t give the gnoll\rquote s stats here because I\rquote ve already given Gnoll stats before but add flight arrows (1d6 damage)
+\par 
+\par I don\rquote t give the orc\rquote s stats here because I\rquote ve already given orc stats
+\par 
+\par }{\f28\fs16 
+\par }{\b Frost man: }{AC 15; MV 30; HD 4; hp 28; THAC0 Atk +3;
+\par #AT 1, Dmg 1d8 (battle axe); SA ice blast (cone of icy
+\par mist 35\'99 long and 10\'99 wide as its widest; 3d6 points of
+\par damage, attempt a saving throw vs. breath weapon for
+\par half damage); ML steady (12); Int average (10); AL LN;
+\par XP 420.
+\par 
+\par Kalas Winters, hm F5 (owner/innkeeper): AC 12; MV 30; hp 42; THAC0 ATK +4 ; #AT 1; Dmg 1d8+1 (long sword +1), 1d4+2 (dagger +2);
+\par SZ M (6\'99 3l\'99); ML elite (14); Int very (11); AL CG; XP 420.
+\par Special Equipment: ring of protection +2, long sword +1, dagger +2
+\par 
+\par Beartrid Winters hf F0 (owner\rquote s wife/hostess): AC 10; MV 30; hp 3; ATK +0;
+\par #AT 1; Dmg 1d6 (pan); SZ M (5\rquote  4\'94); ML steady (11); Int very (12); AL LG; XP 15.
+\par 
+\par Sims Winters hm F0 (owner\rquote s son/cook): AC
+\par 10; MV 30; hp 4; ATK +0; #AT 1; Dmg 1d4
+\par (dagger); SZ M (5\rquote  8\'94); ML elite (13); Int average
+\par (9); AL N; XP 15.
+\par }\pard\plain \s17\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\par }\pard\plain \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {Dorthy Winters hf F0 (owner\rquote s
+\par daughter/cook): AC 13; MV 30; hp 4;
+\par ATK +0; #AT 1; Dmg 1d3 (knife); SZ M (5\rquote  5\'94);
+\par ML steady (12); Int average (10); AL LG; XP 15.}{\f28\fs16 
+\par }{\f29\fs16 
+\par 
+\par }{Tairis hf F0 (barmaid): AC 10; MV 30; hp 2;
+\par ATK +0; #AT 1; Dmg 1d3 (knife); SZ M (5\rquote 6\'94.);
+\par ML steady (11); Int average (9); AL CG; XP 15.}{\f28\fs16 
+\par }{\f29\fs16 
+\par }{Parcilla hf F0 (waitress): AC 12; MV 30; hp 2;
+\par ATK +0; #AT 1; Dmg 1d3 (knife); SZ M (5\'99);
+\par ML steady (12); Int low (7); AL N; XP 15.
+\par Special Equipment: ring of protection +1.
+\par }{\f29\fs18 
+\par }{\f28\fs16 
+\par }{Wild Dogs (10): AC 13; MV 40; HD 1+1; hp 9 each;
+\par ATK +1; #AT 1; Dmg 1d4 (bite); SZ S (4\'99); ML un-
+\par steady (6); Int semi- (3); AL N; XP 35}{\f28\fs16 .
+\par 
+\par 
+\par }{Kinnuki, hm F13/C4: AC 21;
+\par MV 40; hp 96; ATK +12;
+\par #AT 2; Dmg 2d6+6 (Str and great axe +2); SZ L (7\'99
+\par tall/360 lbs.); ML fearless (20); AL CG; XP 5,000.
+\par S 18/89, D 17, C16, I14, W16, Ch 15.
+\par Notes: Ring of elemental command (water) allows move-
+\par ment through solid ice, acts as ring of warmth; pendant imbues
+\par wearer with ability to detect animals in a 120-foot radius.
+\par Personality: Kind, helpful.
+\par Special }{\i Equipment: great axe +2, spear +1, bracers of
+\par }{defense AC 2, ring of elemental command }{\i (water).
+\par Spells }{(5/4): 1st\'8a bless, cure light wounds X3, }{\i purify
+\par food and drink; }{2nd\emdash  }{\i augury, hold person, produce flame,
+\par slow poison.}{
+\par }{\f28\fs16 
+\par }{Broken skeleton skull: AC 12; MV 10; HD 1-1; hp
+\par 2; ATK +0; #AT 0; Dmg 1; SZ S (1\'99); ML fearless
+\par (20); Int non- (0); AL N; XP 7.
+\par 
+\par Mini Flesh Golem: AC 11; MV 20; HD 3; hp 20;
+\par ATK +3; #AT 2; Dmg 1d6/1d6 (fist/fist); SD elec-
+\par trical attacks heal 1 hit point/Hit Die of spell; SZ S
+\par (4\'99); ML fearless (20); Int non- (0); AL N; XP 175.
+\par Notes: This construct is not a true golem and can be hit by
+\par normal weapons}{\f28\fs16 .
+\par 
+\par }{
+\par Skeletons (6): AC 13; MV 30; HD 1; hp 6 each;
+\par Atk +1; #AT 1; Dmg 1d6 (rusty short swords); SD
+\par half damage from slashing/piercing weapons; immune
+\par to sleep, charm, hold, and cold-based spells; SW holy
+\par water causes 2d4 damage per vial; SZ M (6\'99); ML fear-
+\par less (20); Int non- (0); AL N; XP 65.}{\f28\fs16 
+\par 
+\par }{Spider, large: AC 12; MV 20 (15 web); HD 1+1; hp
+\par 6; Atk +1; #AT 1; Dmg 1; SA type A poison; Size
+\par S (2\rquote ); ML unsteady (7); Int non- (0); AL N; XP 175.
+\par Notes: Any hero bitten must attempt a saving throw vs.
+\par poison with a +2 bonus or suffer 15 hit points of damage, one
+\par point per round for 15 rounds.
+\par 
+\par 
+\par Derek, Captain of the Guard (skeleton, unique):
+\par AC 16 ; MV 20; HD 4; hp 25; ATK +3;
+\par #AT 1; Dmg 2d4+1 (broad sword +1); SD piercing and
+\par slashing weapons do half damage.; immune to sleep,
+\par hold, charm and cold-based spells; SW holy water
+\par causes 2d4 damage per vial; SZ M (6\'99 6l\'99); ML fearless
+\par (20); Int low (5); AL N; XP 650.
+\par 
+\par }{\f28\fs16 
+\par }{Zombie: AC 16 (rusty plate mail); MV 20; HD 2; hp
+\par 11; Atk +1; #AT 1; Dmg 1d8 (fist); SD immune
+\par to sleep, charm, hold, and cold-based spells; Size M
+\par (6\'99); ML fearless (20); Int non- (0); AL N; XP 65.
+\par 
+\par 
+\par Starved mimic: AC 13; MV 10; HD 7 (currently 4);
+\par hp 20; Atk +7; #AT 1; Dmg 3d4 (smash); SA
+\par glue,  SD hide immune to acid;
+\par Size L (8\'99); ML champion (15); Int average (9); AL
+\par N; XP 270.
+\par Notes: The mimic covers itself with a glue-like substance.
+\par Any creature or item that touches a mimic is held fast. Alcohol
+\par weakens the glue in three rounds, enabling the character to
+\par break free, or the character may attempt to make an Escape Artist
+\par  check to break free. Only one attempt may be made per
+\par character, and no other action, offensive or defensive, may be
+\par performed during the round that the attempt is being made. A
+\par mimic may neutralize its glue at will; the glue dissolves five
+\par rounds after the mimic dies.}{\f28\fs16 
+\par }{
+\par I didn\rquote t put the Mini Flesh Golem stats here because I already put them earlier}{\f28\fs16 
+\par }{
+\par I didn\rquote t put the Skeleton stats here because I already put them earlier
+\par 
+\par I didn\rquote t put the Zombie stats here because I already put them earlier
+\par 
+\par Zombie cats (3): AC 12; MV 20; HD 2; hp 13 each;
+\par ATK +1; #AT 1; Dmg 1d8 (claws); SD immune to
+\par sleep, charm, hold, death magic, poison, and cold-based
+\par spells; Size S (28); ML fearless (20); Int non- (0); AL
+\par N; XP 65.}{\f28\fs16 
+\par }{
+\par I didn\rquote t put the Zombie stats here because I already put them earlier
+\par 
+\par Monster skeleton: AC 14; MV 30; HD 6; hp 27;
+\par Atk +5; #AT 1; Dmg 1d10 (great axe) or 1d8
+\par (punch); SD immune to all sleep, charm, hold, and
+\par cold-based spells; edged or piercing weapons inflict
+\par only half damage; SW holy water causes 2d4 damage
+\par per vial; SZ L (10\'99); ML fearless (20); Int non- (0);
+\par AL N; XP 650.
+\par }{\f28\fs16 
+\par }{I didn\rquote t put the Skeleton stats here because I already put them earlier 
+\par 
+\par I didn\rquote t put the Skeleton stats here because I already put them earlier 
+\par }{\f28\fs16 
+\par }{Rats, normal (20): AC 13; MV 20; HD 1/4; hp 1
+\par each; ATK +0; #AT 1; Dmg 1 (bite); SZ S (1\'99);
+\par ML unreliable (3); Int non- (0); AL N; XP 7.}{\f28\fs16 
+\par }{
+\par Poltergeist: AC 10; MV 20; HD 1/2; Hp 3; ATK +5;
+\par  #AT 1; Dmg Nil; SA fear; SD invisibility: -4 to be
+\par hit,  10HP hit reduction, turn as ghoul; SZ
+\par M (6\'99); Int low (7); ML average (10); AL LE; XP 120.}{\f28\fs16 
+\par 
+\par 
+\par }{I didn\rquote t put the Skeleton stats here because I already put them earlier
+\par 
+\par Yarmuth (ghoul): AC 14; MV 30; HD 2; Hp 11;
+\par ATK +1; #AT 3; Dmg 1d3 X 2/1d6 (claw X 2/bite);
+\par SA paralyzation; SD immune to sleep and charm spells;
+\par SW protection from }{\i evil }{keeps the ghoul completely at
+\par bay; SZ M (5\'99); ML steady (11); Int low (6); AL CE;
+\par XP 175.
+\par 
+\par 
+\par Sundew (modified): AC 13; MV 10; HD 4; Hp 18;
+\par # AT 1d6; Dmg 1 (acid tendril); SA PCs are -1 to hit,
+\par suffocation; SD missiles and fire-based attacks do half
+\par damage; Size M (3\'99); ML fearless (20); Int semi- (3);
+\par AL N; XP 650.
+\par Notes: For every three tendrils that strike a victim, that
+\par person suffers a cumulative -1 penalty on their attack rolls.
+\par Any in20lk on an attack roll by the sundew signifies that the ten-
+\par dril has struck the face of its victim and the sap from the ten-
+\par dril clogs the nose and mouth causing suffocation in 1d4+4
+\par rounds. Vinegar or alcohol (such as wine) dissolves the sap.
+\par level, filling this room with debris, rubble, and mud.}{\f28\fs16  
+\par 
+\par 
+\par }{Gargoyle: AC 15; MV Nil; HD 4+4; Hp 26;
+\par ATK +5; #AT 4; Dmg 1d3 X 2/1d6/1d4
+\par (claw X 2/bite/horn) 10 HP damage reduction;
+\par SZ M (6\'99 tall); ML steady (11); Int low (7); AL CE;
+\par XP 420.
+\par Notes: Bite and horn attack allowed only if both claw at-
+\par tacks are successful and the creature is thus able to pull the vic-
+\par tim to it.
+\par 
+\par Spider, hairy (2): AC 12; MV 20 (no webs); HD
+\par 1-1; hp 5 each; ATK +0; #AT 1; Dmg 1 (Bite); SA
+\par poison; SZ T (6ls); ML average (10); Int low (5); AL
+\par NE; XP 65.
+\par Notes: Victims receive a +2 bonus to saving throws vs. the
+\par hairy spiders\'99 weak poison. If the saving throw fails, the victim
+\par suffers -1 attack and AC penalties plus a -3 penalty to Dexter-
+\par ity. These effects begin one round after the bite and last for
+\par 1d4+1 rounds thereafter.
+\par 
+\par Damien Morienus (crypt thing): AC 17; MV 30;
+\par HD 6; Hp 36; ATK +5; #AT 1; Dmg 1d8; SA tele-
+\par port; SD immune to charm, hold, and sleep spells; can-
+\par not be turned; SZ M (6\'99 tall); ML fanatic (18); Int
+\par very (12); AL N; XP 975.
+\par Notes: Due to an oddity of the Damien\'99s unique undead sta-
+\par tus (Varmuth\rquote s curse), this crypt thing can be damaged by nor-
+\par mal weapons.
+\par 
+\par Celerum the Black (Peddywinkle), hm W5: AC 17
+\par MV 30; hp 17; ATK +1;
+\par #AT 1; Dmg 1d6 (staff); SZ M (6\'99, 170 lb.); ML cham-
+\par pion (16); AL CE.
+\par S 10, D 16, C 14, I 18, W 17, Ch 11.
+\par Special Equipment: hat of disguise, wand of magic mis-
+\par siles (25 charges), bracers of defense AC 5.
+\par Spells: (4/2/1): 1st\'8a color spray, detect undead, grease,
+\par shield; 2nd\'8a invisibility, obscure alignment; 3rd\'8a fireball.
+\par Description: Celerum is 35 years old, 6\'99 2ld tall, and
+\par thin. He has blond hair and piercing blue eyes.
+\par Celerum dresses in a jet-black robe of the finest weave
+\par with a jewel-inlaid gold belt.
+\par Personality: Celerum is arrogant, cold, and calculat-
+\par ing. He is completely amoral and will do anything that
+\par furthers his own ends.
+\par History: While researching spells for the late Dendy-
+\par bar the Mottled, Celerum came across excerpts from
+\par the diary of Damien Morienus. The diary contained
+\par references to some type of potion of great power but
+\par failed to describe the process of making it. Intrigued,
+\par Celerum delved deeper into the archives of the Host-
+\par tower, eventually discovering that Damien had a re-
+\par search tower somewhere in Icewind Dale. He also dis-
+\par covered that Damien, a former master of the North
+\par Spire himself, was actually working on a recipe for lich-
+\par dom but had not completed it before he mysteriously
+\par disappeared with his tower. The tower\'99s disappearance
+\par also coincided with a period of the Dale\'99s history called
+\par the Great Thaw. Finding no further reference to
+\par Damien, Celerum decided to search for himself.
+\par Celerum traveled throughout Icewind Dale with a
+\par friendly merchant, Boswell C. Peddywinkle. Peddywin-
+\par kle had been traveling to the Dale for years, trading in
+\par the valuable scrimshaw, and who had an impressive
+\par network already set up for fishing on the lakes. Seeing
+\par this as an opportunity too good to pass up, Celerum
+\par killed Peddywinkle along the road and, using his hat of
+\par disguise, has assumed the merchant\'99s identity.
+\par Merchant Persona: Boswell C. Peddywinkle
+\par Description: Boswell is 5\'99 4ls and quite pudgy, with a
+\par regal look to him. He is around 50 years old, with a
+\par great handlebar mustache and bright blue eyes. He has
+\par very little hair left and what is there is pure white. He is
+\par dressed in rich courtly dress.
+\par Personality: Peddywinkle is very friendly, outgoing,
+\par and talkative. He delights in the telling of fanciful sto-
+\par ries about his exploits such as when he acquired a very
+\par rare bauble that was a gift from the beautiful queen of
+\par Salsa, who, by the way, was quite smitten with him.
+\par Long-term goal: Peddywinkle/Celerum wants
+\par Damien\'99s diary. If the PCs prevent him from getting it,
+\par telligent monsters, or thieves) either to get the book if
+\par the PCs have it or for revenge if they destroyed it (or
+\par otherwise kept it from him). If the PCs foil his plan,
+\par they\'99ll earn themselves a long-term foe in Celerum,
+\par and perhaps all of the forces of the Hosttower of
+\par Luskan.
+\par 
+\par }\pard\plain \s3\qc \li0\ri0\keepn\widctlpar\faauto\outlinelevel2\rin0\lin0\itap0 \fs36\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {Rumblebelly\rquote s Stats 
+\par }\pard\plain \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs32 (Regis\rquote  Stats)
+\par }{\ul \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab 
+\par }{for those of you who don\rquote t know Rumblebelly is Bruenor\rquote s nickname for Regis.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {
+\par Regis, halfling male R7: AC 16 (leather, Dex); MV 12; hp
+\par 35; ATK +3; #AT 1; Dmg by weapon; SZ S (3\'99); ML
+\par elite (13) AL NG.
+\par Special Equipment: +2 luck stone, ruby pendant of be-
+\par guiling (acts as a rod of beguiling), and a mace +2.
+\par S 10, D 17, C 15, I 13, W 15, C 15.
+\par Description: Regis is barely 3\rquote  tall with curly brown
+\par hair and a belly that hangs far over his belt.
+\par Skills: Pickpocket 10,  Move Silently 12, Hide 16
+\par  Personality: Regis is good-natured though lazy, and
+\par not malicious in the least. He\rquote s quite sly and enjoying
+\par in fooling the foollish every once in a while. When the
+\par chips are down, his friends can count on Regis to come
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {through for them.
+\par }\pard\plain \s3\qc \li0\ri0\keepn\widctlpar\faauto\outlinelevel2\rin0\lin0\itap0 \fs36\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24 
+\par 
+\par }{Drizzt Do\rquote urden\rquote s Stats
+\par }\pard\plain \qc \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\ul \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab 
+\par 
+\par }\pard\plain \s17\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b Male Drow (Dark Elf), 16th-Level Ranger\line }{Strength ........ 13 (+1)
+\line Dexterity ....... 21 (+5)\line Constitution ... 15 (+2)\line Intelligence .... 17 (+3)\line Wisdom ........ 17 (+3)\line Charisma ...... 14 (+2)\line Fortitude Save +12\line Reflex Save +12\line Will Save +8\line Alignment Chaotic good\line 
+Speed 30 ft.\line Size M\line Initiative +9 (Improved Initiative)\line Armor Class 24 (+5 Dex, +9 armor)\line Hit Points 92\line Attack Bonus +16/+11/+6/+1 (primary weapon), +17/+12 (secondary weapon).
+\par }{\b Skills:}{ Animal Empathy +6, Bluff +3, Climb +5, Handle Animal +5, Heal +4, Hide +12, Intuit Direction +9, Jump +5, Listen +6, Move Silently +12, Ride +8, Rope Use +4, Search +8, Spot +9, Track +12, Wilderness Lore +10
+\par }{\b Feats:}{ Ambidexterity (ranger bonus feat), Blind-Fight, Dodge, Expertise, Improved Initiative, Improved Two-Weapon Fighting, Lightning Reflexes, Two-Weapon Fighting (ranger bonus feat)
+\par }{\b Ranger Spells}{ (3/3/2/1): Drizzt is a follower of Mielikki, the goddess of the forest. Ranger spells he typically has prepared include: 1st--}{\i animal friendship, entangle, pass without trace}{; 2nd--}{\i 
+detect evil, hold animal, protection from elements}{; 3rd --}{\i control plants, neutralize poison; }{4th--}{\i nondetection}{.
+\par }{\b Special:}{
+ As a ranger, Drizzt gains a bonus to Bluff, Listen, Spot, and Track, as well as damage rolls against the following types of creatures: goblinoids (+4), magical beasts (+3), evil outsiders (+2), and vermin (+1). As a drow, he can use the following spell-l
+ike abilities, each once per day, as a sorcerer of his level: }{\i dancing lights, faerie fire,}{ and}{\i  darkness}{. He has darkvision and +2 to saving throws against spells and spell-like effects; he\rquote s lost his normal spell resistance, as he
+\rquote s been on the surface too long.
+\par }{\b Languages:}{ Drizzt speaks Common, Elven, Dwarven, and Undercommon (the language of the Underdark).
+\par }{\b Possessions:}{ mithral }{\i chain mail +4}{, a }{\i frostbrand +3}{ scimitar (named Icingdeath), a }{\i defender +5}{ scimitar (named Twinkle), and a }{\i figurine of wondrous power}{
+, an onyx panther named Guenhwyvar (see the end of this entry for more information). Drizzt carries a mix of adventuring gear, including some drow and dwarven equipment.
+\par }{\b Appearance:}{ Somewhat larger than a typical dark elf, Drizzt stands 5\rquote 4" and weighs ab
+out 130 lbs. His handsome features are sharp and well proportioned; his white hair is long, flowing, and smooth. His violet eyes are windows to his passionate soul. He normally wears a fur-collared forest-green cloak and high black boots. It has been more
+ than 70 years since he first ventured into the surface world and at present he is in the neighborhood of 140 years old\emdash still a young adult by elven standards.
+\par }{\b Background: }{It would be impossible to recount all of Drizzt's legendary adventures (described in a series of novels by R. A. Salvatore, see }{\b Sources}{). The major events of his life are described here.
+\par Drizzt was born into the ninth house of Menzoberranzan, called Daermon N\rquote a\rquote shezbaernon, more commonly known as Do\rquote Urden, on the night when that house wipe
+d out one of its rivals. As a male in the matriarchal society of the drow, Drizzt was trained by his father, Zaknafein, to be a warrior.
+\par Drizzt was first dienchanted and then disgusted by the corrupt, vicious nature of drow culture. He sought some means of escape. In the meantime, his family came to realize his abhorrent (to them) principles, and his father, the house\rquote 
+s Weapons Master, gave his life to save his son when the family\rquote s matriarch wanted Drizzt executed as a traitor.
+\par The path of Drizzt\rquote s life took an irrevocable turn away from the evil ways of his kind when he killed Masoj Hun\rquote ett, a drow who had been using a }{\i figurine of wondrous power}{
+ for tawdry assassinations and other detestable work. In the magical panther named Guenhwyvar, Drizzt sensed a kindred spirit -- a fierce but brave and loyal warrior trapped in the drow\rquote s dark world of deceit. Drizzt liberated Guen from Hun\rquote 
+ett, and later fled Menzoberranzan entirely.
+\par He and Guen wandered the Underdark for a decade, always moving, until they found a 
+grotto tended by the fungus people known as the myconids. While there was life here, Drizzt was still profoundly lonely. His only companion was Guen, and the magic that brought her to this world also sent the cat away all too often.
+\par Not long thereafter, he
+ discovered a city of svirfneblin, gnomes that live in the Underdark. This was what he had been seeking: a civilization that valued the same concepts of honor, loyalty, and goodness that he did. Careful not to reveal himself to the gnomes right away, Driz
+zt stealthily made his way into, around, and then back out of the city he learned was called Blingdenstone.
+\par Later, convinced that this was the life he was destined to have, Drizzt reentered the city -- only to be taken prisoner by the wary gnomes. Fortunate
+ly, he came into contact with a deep gnome he had met once before. Before Drizzt fled from drow society, he had been assigned to go on a patrol. This patrol encountered a group of deep gnomes and killed them all -- except for one warrior named Belwar Diss
+engulp. Drizzt, hoping to save at least one life from being massacred, pleaded with the other elves to spare this one\rquote 
+s life -- arguing that it would be better to allow him to return to his people and tell of drow ferocity than just leave another corpse. Drizzt\rquote s brother Dinin did agree to let the gnome live, but chopped off both of Belwar\rquote s hands first.
+
+\par When Drizzt again met Belwar, the gnome had two great metal hammers attached to his wrists in place of his hands. Belwar, remembering that Drizzt had saved 
+his life, convinced the other gnomes to give him a chance. Drizzt proved himself soon thereafter when he, Belwar, and a pech named Clacker who had been polymorphed into a hook horror by a mad wizard worked together to defeat the wizard and the mind flayer
+s
+ that were in the area. During this time Drizzt also found himself facing his deceased father in combat. Zaknafen had been brought back as one of the undead by an unholy drow ritua. But, knowing that the creature was not truly his father, Drizzt spared no
+ effort in destroying it.
+\par Feeling he needed to put yet more distance between himself and his drow past, Drizzt fled to the surfilce world, where he witnessed a sunrise for the first time in his life.
+\par He eventually met the blind ranger Montolio "Mooshie" DeBrouchee, who taught Drizzt the ways of the surface world and the concepts of being a ranger, and introduced him to the existence of the goddess Mielikki, the Lady of the Forest. With Mooshie\rquote 
+s help, Drizzt began his career as a ranger, defeated a large band of orcs, and vanquished a pair of barghests.
+\par After Mooshie passed away, Drizzt again took to wandering, this time on the surfac world. After a time he came to Icewind Dale and the region known as Ten Towns. Under the terms of a deal he made with Cassius, the region\rquote 
+s leader, Drizzt took up residence in the area in exchange for his regular patrolling of the region to watch out for incursions of barbarians. 
+\par Before long, Drizzt met the dwarf who was to become one of his dearest friends: Bruenor Battlehammer, who busy battling a remorhaz at the time. By the time Drizzt arrived to help, the beast was dead. Drizzt also came to know the dwarf\rquote 
+s adopted human daughter Catti-brie and the halfling Regis.
+\par When Bruenor spared the life of one of the barbarians who later attacked Ten Towns, Drizzt became acquainted with Wulfgar. Over time, the young man matured, due in no little measure to Drizzt\rquote 
+s training him to use his brain as well as his brawn in battle. 
+\par This training was put to good use when a power-mad mage attacked Ten Towns with a horde of humanoids. The townsfolk, barbarians, and heroes defeated the humanoids, and Drizzt overcame the tanar\rquote ri Errtu.
+\par Drizzt and the other members of the band later accompanied Bruenor on his quest to retake his ancestral homeland
+, Mirthal Hall. It was here that Drizzt met for the first time the man who would become his nemesis. The human assassin Artemis Entreri was originally after Regis the halfling, but found his mirror image, and his real foe, in Drizzt. After a battle with D
+rizzt that proved inconclusive, Artemis kidnapped Regis, and the heroes followed him all the way to the distant southern city of Calimport to rescue their friend. Drizzt and Artemis met once more, but again there was no clear winner.
+\par After releasing Regis, the heroes returned north and did reconquer Mithral Hall. All seemed peaceful for a time, but then drow spies found a way into Mirthral Hall from below, and Artemis returned, magically disguised as Regis.
+\par Drizzt eventually found where Artemis was holding t
+he real Regis, and the ranger and the assassin again did battle. They were both attacked by drow before any conclusion could be reached, however. They fought again later, and Artemis fell over a cliff. Wulfgar met his end at this time when, caught in the 
+grasp of a handmaiden of Lolth, he used his magical hammer to collapse the ceiling onto them both.
+\par Drizzt soon decided that he had to return to Menzoberranzan to put an end to the drow meddling in his life, and Catti-brie followed him. The pair eventually d
+iscovered that Artemis was still alive and working for the drow -- though he suspected he was being used and would be killed as soon as he had done what the drow wanted of him. When the time came to flee back to the surface, the three of them worked toget
+her to defeat the drow. Artemis and Drizzt seemed to have come to an accord and parted without further violence.
+\par The same could not be said for Drizzt's other enemies. The drow, the fiend Errtu, and others all conspired in an attempt to bring down Drizzt an
+d Mithral Hall. An army of drow and humanoid slaves invaded, and it took the combined forces of the dwarves, the deep gnomes, and the humans to defeat them.
+\par Deciding again it was time to move on, Drizzt and his dear friend Catti-brie rode away from Mithral Hall. At present that is where Drizzt's tale ends -- but what is yet to be told is likely to be as thrilling as what has come before. 
+\par }{\b Sources:}{ }{\i Homeland, Exile, Sojourn, The Crystal Shard, Streams of Silver, The Halfling\rquote s Gem, The Legacy, Starless Night, Siege of Darkness}{, }{\i Passage to Dawn}{, }{\i The Silent Blade}{, }{\i Spine of the World}{, }{\i 
+Servant of the Shard}{ (October 2000)
+\par }{\b Guenhwyvar:}{ Medium magical beast; HD 6d8+18; hp 45; Init +7 (Improved Initiative); Spd 30'; AC 16; Atk +11/+11/+6 melee (1d4 [x2] claws, 1d12 bit
+e, 2d4 [x2] rake if both claws hit); SA spring; SD scent; AL N; SV Fort +8, Ref +8, Will +3; Str 22, Dex 16, Con 16, Int 9, Wis 12, Cha 10.
+\par }{\i Skills and Feats:}{ Hide +8, Listen +6, Move Silently +10, Spot +8, Improved Initiative
+\par }{\i Special Attacks:}{ }{\b Spring}{: If Guenhwyvar leaps on a foe during the first round of combat, she can make an all-out attack even if she has taken a move action, she can also make a grapple attack as a free action.
+\par }{\i Special Defenses:}{ }{\b Scent}{: Guenhwyvar can detect other creatures within 30' by scent and gains +8 to tracking rolls.
+\par Drizzt\rquote s closest companion is the animal that emerges from his }{\i figurine of wondrous power}{, the onyx panther called Guen
+hwyvar. The panther can be summoned forth from the figurine up to three times per week, for a total of 24 hours altogether during that time. If she is slain while activated, she reverts to the figurine form, and can be called forth again later.
+\par While Guen cannot speak, it is clear the panther dearly loves her master and his comrades. On occasions too many to number, Guen\rquote s fighting prowess and sharp claws have been the difference between victory and defeat for Drizzt.
+\par * The official version of this character in future printed products may vary from what is presented here.
+\par I\rquote d like to thank Wizards of the Coast for putting out such a great game, R.A. Salvatore for making such great stories, and you for using my conversion. Thanx!  ^_^
+\par }\pard\plain \qc \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\ul 
+\par }}
